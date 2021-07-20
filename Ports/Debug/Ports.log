@@ -1,0 +1,4 @@
+﻿  Ports.cpp
+C:\Users\stepl\source\repos\Ports\Ports.cpp(10,14): warning C4129: .: неизвестная escape-последовательность
+C:\Users\stepl\source\repos\Ports\Ports.cpp(82,32): warning C4018: >: несоответствие типов со знаком и без знака
+  Ports.vcxproj -> C:\Users\stepl\source\repos\Ports\Debug\Ports.exe
