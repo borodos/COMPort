@@ -1,0 +1,3 @@
+C:\Users\stepl\source\repos\COM Port\Debug\COM Port.exe
+C:\Users\stepl\OneDrive - Южный Федеральный Университет\Программирование\COM Port\Debug\COM Port.exe
+C:\Users\stepl\OneDrive - Южный Федеральный Университет\Летняя практика\!!Движок С++ (асинхронный потоковый)!!\Debug\COM Port.exe
