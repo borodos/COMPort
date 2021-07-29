@@ -1,9 +1,0 @@
-Number of revolutions: 1
-Number of revolutions: 2
-Number of revolutions: 3
-Number of revolutions: 4
-Number of revolutions: 5
-Floop break was not detected
-Number of revolutions: 1
-Number of revolutions: 2
-Floop break was not detected
